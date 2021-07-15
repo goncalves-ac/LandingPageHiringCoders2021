@@ -20,4 +20,4 @@ You will also see any lint errors in the console.
 ![preview 02](./src/img/02.png)
 
 ## Site
-<a href="">BlackFriday - AnaStore</a>
+<a href="https://blackfriday-anastore.netlify.app/">BlackFriday - AnaStore</a>
