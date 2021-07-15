@@ -33,10 +33,10 @@ function App() {
                         <h3 class="CTA-text">SE INSCREVA NA NOSSA <span class="newsletter-text">NEWSLETTER</span> <br />E RECEBA UMA NOTIFICAÇÃO ASSIM QUE AS PROMOÇÕES COMEÇAREM</h3>
                     </div>
                     <div class="input-wrapper">
-                        <form>
-                            <input id="emailInput" type="email" onChange={e => setCount(e.target.value.length)} placeholder="Digite seu E-mail..." />
-                            <button id="subscribeBtn" disabled={ count === 0 ? true : false } onClick={() => iniciaModal('IDdoModal')}>INSCREVER</button>
-                        </form>
+                        
+                        <input id="emailInput" type="email" onChange={e => setCount(e.target.value.length)} placeholder="Digite seu E-mail..." />
+                        <button id="subscribeBtn" disabled={ count === 0 ? true : false } onClick={() => iniciaModal('IDdoModal')}>INSCREVER</button>
+                       
                     </div>
                     <p id="mesage-display"></p>
                     <a href={0} rel="noopener noreferrer">SEGUIR PARA A LOJA</a>
