@@ -15,9 +15,9 @@ The page will reload if you make edits.\
 You will also see any lint errors in the console.
 
 ## How it looks like
-![preview 01](./img/01.png)
+![preview 01](./src/img/01.png)
 
-![preview 02](./img/02.png)
+![preview 02](./src/img/02.png)
 
 ## Site
 <a href="">BlackFriday - AnaStore</a>
